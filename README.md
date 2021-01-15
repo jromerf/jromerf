@@ -1,4 +1,5 @@
 ### Hi, I'm Javier 👋
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=jromerf&show_icons=true">
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Studying Computer Science at "Universidad Complutense de Madrid".
